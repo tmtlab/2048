@@ -1,4 +1,4 @@
-export const MILESTONES = [2, 8, 16, 32, 64, 128, 256, 512, 1024, 2048];
+export const MILESTONES = [2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048];
 
 export const COIN_PRICES = { shuffle: 50, hammer: 75, double: 100, shield: 80 };
 
